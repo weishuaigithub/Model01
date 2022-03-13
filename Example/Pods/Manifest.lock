@@ -1,0 +1,16 @@
+PODS:
+  - Model01 (0.1.0)
+
+DEPENDENCIES:
+  - Model01 (from `../`)
+
+EXTERNAL SOURCES:
+  Model01:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Model01: 30a6cf553edb1e5b9b44d4f9bacaf8ebafb89008
+
+PODFILE CHECKSUM: 80f50ef35ccfe2049db709ad34ec0aa03b9bbacb
+
+COCOAPODS: 1.10.1
